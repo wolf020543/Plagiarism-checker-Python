@@ -14,7 +14,7 @@ This repo contains a basic example on how to do that.
 
 
 ## Getting Started
-
+     
 To get started with the code on this repo, you need to either *clone* or *download* this repo into your machine as shown below;
 
 ```bash
